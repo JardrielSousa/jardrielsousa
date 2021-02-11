@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/jardriel-sousa?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jardriel-sousa-9a993a107/)](https://www.linkedin.com/in/jardriel-sousa-9a993a107/) [![Github Badge](https://img.shields.io/badge/-jardrielsousa-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jardrielsousa/)](https://www.github.com/jardrielsousa/) ![Profile views](https://gpvc.arturio.dev/jardrielsousa)
 
 - 🔭 I’m currently working on Dell Lead
-- 🌱 I’m currently learning english and techologies for Java web 
+- 🌱 I’m currently learning english and news techologies for web  
 - 👯 I’m looking to collaborate on community web studants
 - 💬 Ask me about techologies and sports
 
