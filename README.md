@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Dell Lead
-- 🌱 I’m currently learning english and techologies for Java web 
+- 🌱 I’m currently learning english and news techologies for web 
 - 👯 I’m looking to collaborate on community web studants
 - 💬 Ask me about techologies and sports
 -->
